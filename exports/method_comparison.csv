@@ -1,0 +1,6 @@
+Country,FP_RuleCount,FP_AvgLift,FP_AvgConfidence,FP_AvgSupport,AP_RuleCount,AP_AvgLift,AP_AvgConfidence,AP_AvgSupport
+United Kingdom,2,5.036,0.469,0.0326,2,5.036,0.469,0.0326
+Germany,10,15.223,0.729,0.0342,10,15.223,0.729,0.0342
+EIRE,10,18.27,0.791,0.0349,10,18.27,0.791,0.0349
+France,10,18.798,0.806,0.0342,10,18.798,0.806,0.0342
+Netherlands,10,29.314,0.975,0.0316,10,29.314,0.975,0.0316

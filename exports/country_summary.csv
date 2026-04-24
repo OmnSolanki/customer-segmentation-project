@@ -1,0 +1,5 @@
+Country,Transactions,Invoices,Products,Customers,FP_Rules,Apriori_Rules,Best_K,KMeans_Silhouette,Hierarchical_Silhouette
+United Kingdom,725250,33541,5249,5350,2,2,2,0.9417,0.9429
+Germany,16694,789,2410,107,584,584,3,0.6876,0.6876
+France,13812,614,2180,95,1180,1180,3,0.7266,0.7227
+Netherlands,5088,228,1354,22,9368,9368,2,0.8976,0.8976
